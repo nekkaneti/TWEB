@@ -1,5 +1,7 @@
 {
   "dependencies": {
+    "antd": "^5.4.7",
+    "mobx": "^6.9.0",
     "mobx-react": "^7.6.0",
     "mobx-state-tree": "^5.1.8"
   }
