@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React Neer Ecaterina CR-203
+          Neer Ecaterina CR-203
         </a>
       </header>
     </div>
